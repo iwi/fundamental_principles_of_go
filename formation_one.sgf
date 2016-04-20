@@ -160,9 +160,27 @@ Black is extremely thick]))
 ;W[ed]
 ;B[fc]
 ;W[cd]
-;B[de]
-;W[bb]
+;B[de]LB[bb:A][fb:B]
+(;W[bb]
 ;B[fb]
 ;W[ca]
 ;B[ea]
-;W[ac]C[White lives but this variation seems submissive and is not often used])))))
+;W[ac]C[White lives but this variation seems submissive and is not often used])
+(;W[fb]
+;B[bb]
+;W[gc]
+;B[fd]LB[hb:C][gd:A][ge:B]
+(;W[gd]
+;B[fe]
+;W[ge]
+;B[ff]C[this is better for black])
+(;W[ge]
+;B[fe]
+;W[ff]
+;B[gd]
+;W[hd]
+;B[ee]
+;W[hc]LB[he:A][ie:B]C[A - black later and white B sacrificing a stone (which is key).]
+;B[he]
+;W[ie])
+(;W[hb]C[this approach is wise when your opponent's strength is greater])))))))
